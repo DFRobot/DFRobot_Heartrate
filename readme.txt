@@ -6,4 +6,5 @@
 ***************************************************************
 
  - For an ultra-detailed explanation of why the code is the way it is, please visit: 
-   http://wiki.dfrobot.com.cn/index.php?title=(SKU:SEN0203)心率传感器heart_rate_sensor
+   - [Chinese Wiki](http://wiki.dfrobot.com.cn/index.php?title=(SKU:SEN0203)脨脛脗脢麓芦赂脨脝梅heart_rate_sensor)
+   - [English Wiki](https://www.dfrobot.com/wiki/index.php?title=Heart_Rate_Sensor_SKU:_SEN0203)
