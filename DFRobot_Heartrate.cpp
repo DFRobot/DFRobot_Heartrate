@@ -251,7 +251,7 @@ uint16_t DFRobot_Heartrate::getRate(void)
   GNU General Public License for more details.
   You should have received a copy of the GNU General Public License
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
-  Contact: 490289303@qq.com
+  Contact: Musk.lin@dfrobot.com
  ******************************************************************************/
  
 
