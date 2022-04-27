@@ -6,17 +6,18 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-
+DFRobot_Heartrate	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
-DFRobot_Heartrate	KEYWORD2
+
 maxNumber	KEYWORD2
-minNumber	KEYWORD2    
+minNumber	KEYWORD2
 analogGetRate	KEYWORD2
 digitalGetRate	KEYWORD2
 getRate	KEYWORD2
+getCnt	KEYWORD2
 getValue	KEYWORD2
 
 #######################################
@@ -26,5 +27,3 @@ getValue	KEYWORD2
 ANALOG_MODE	LITERAL1
 DIGITAL_MODE	LITERAL1
 SAMPLE_NUMBER	LITERAL1
-
-
